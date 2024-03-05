@@ -1,0 +1,42 @@
+body {
+  background-image: url('Omnid.png');
+  background-repeat: no-repeat;
+  width: 100vw;
+  background-size: cover;
+}
+
+.trigger {
+  margin-top: 2.4vh;
+  margin-left: 13.71vw;
+  border: 0px;
+  background-color: rgba(0, 0, 0, 0);
+  width: 11vw;
+  height: 11vw;
+  color: white;
+}
+
+.trigger2 {
+  margin-top: 43.4vh;
+  margin-left: 1.15vw;
+  border: 0px;
+  background-color: rgba(0, 0, 0, 0);
+  width: 11vw;
+  height: 11vw;
+}
+
+.home {
+  border: 0px;
+  margin-left: 35vw;
+  background-color: rgba(0, 0, 0, 0);
+  width: 150px;
+  height: 120px;
+}
+
+.freeze {
+  margin-top: 46vh;
+  border: 0px;
+  margin-left: 35vw;
+  background-color: rgba(0, 0, 0, 0);
+  width: 150px;
+  height: 120px;
+}
