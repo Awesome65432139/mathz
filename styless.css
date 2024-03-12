@@ -1,8 +1,7 @@
 body {
   background-image: url('Omnid.png');
   background-repeat: no-repeat;
-  height: 100vw;
-  background-size: cover;
+  width: 100vw;
 }
 
 .trigger {
