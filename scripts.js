@@ -48,7 +48,7 @@ function goFreeze() {
 function openGame() {
   if (frozen == false) {
     var win = window.open()
-    var url = "https://awesome65432139.github.io/math/"
+    var url = "https://awesome65432139.github.io/mathz2/"
     var iframe = win.document.createElement('iframe')
     iframe.style.width = "100%";
     iframe.style.height = "100%";
